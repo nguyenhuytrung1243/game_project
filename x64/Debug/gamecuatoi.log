@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\MainObject.h(45,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\MainObject.h(256,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\MainObject.h(263,60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\MainObject.h(298,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\MainObject.h(301,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\PlayerPower.h(35,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\PlayerPower.h(48,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\PlayerPower.h(76,42): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\TextObject.h(18,23): warning C4838: conversion from 'const int' to 'Uint8' requires a narrowing conversion
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\TextObject.h(18,25): warning C4838: conversion from 'const int' to 'Uint8' requires a narrowing conversion
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\TextObject.h(18,27): warning C4838: conversion from 'const int' to 'Uint8' requires a narrowing conversion
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(293,20): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(294,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(295,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(296,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(297,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(298,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(299,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(300,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(301,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(302,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(303,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(305,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(309,64): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(314,64): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(375,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(428,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(219,36): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(548,47): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\main.cpp(552,46): warning C4390: ';': empty controlled statement found; is this the intent?
+  gamecuatoi.vcxproj -> C:\Users\NGUYEN HUY TRUNG\source\repos\gamecuatoi\x64\Debug\gamecuatoi.exe
